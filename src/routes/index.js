@@ -1,6 +1,7 @@
 import express from 'express'
 
 import test from './test'
+import ujp from './ujp'
 
 const router = new express.Router()
 
